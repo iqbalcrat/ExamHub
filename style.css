@@ -1,0 +1,24 @@
+.images{
+    height: 100%;
+    width: 100%;
+    margin:0;
+    padding: none;
+    background-size: cover;
+    object-fit: cover;
+    background-image:
+    linear-gradient(to left, rgba(190, 207, 204, 0.26), rgb(22, 21, 22)),
+    url('./img/team.jpg');
+  }
+
+.cont{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Rajdhani', sans-serif;
+    color: white;
+    font-size: 3vw;
+    height: 100px;
+    width: 50%;
+    border: 2px;
+    border-color: black;
+    padding-left: 18%;
+    padding-top: 10%;
+}
